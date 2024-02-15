@@ -13,7 +13,7 @@
     - both above imports works
     ! - React element is basically a object.
 
-4. JSX : It is not part of React.
+4. JSX(Javascript XML) : It is not part of React.
     - we can create a React app without jsx
     - It is not html inside javascript.Lot of dev thinks it html inside javascript
     - it's just syntax that looks like html but it's not actually html
