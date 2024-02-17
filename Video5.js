@@ -26,7 +26,7 @@ eg of named export :
                 !const [item,setItem] = useState();
                 -Here item is the current value of the state , setItem is the function to update the state variable item.
                 -This super variable will be sync our UI layer with data layer
-                !Most important point : whenever a state variable "item" is updates React re-render the component.
+                !Most important point : whenever a state variable "item" updates React re-render the component.
                 - we need setItem function to trigger the diff algrithm. see diff algo concept in point 2 .
 
                 - another eg-2 : const [item,setItem]=useState(); 
