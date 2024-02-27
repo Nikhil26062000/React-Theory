@@ -1,4 +1,4 @@
-//! these questions are from simplilearn.com
+//! these questions are from simplilearn.scom
 
 //? ----------- What are the features of React --------------------
     //1. jsx
@@ -98,3 +98,4 @@
 
 //? ---------------- Explain the use of CSS modules in React ----------------- 
     //CSS Modules are a way to scope CSS locally to individual React components. They provide a way to write CSS that is scoped to a specific component, preventing styles from leaking and conflicting with styles from other components. 
+
