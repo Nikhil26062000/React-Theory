@@ -20,7 +20,8 @@ eg of named export :
 
 ! REACT IS FAST IN DOM MANIPULATION OR CAN SAY DOM OPERATION.REACT CAN DO EFFICIENT DOM MANIPULATION.
 
-1.React hook : its a normal javascript function with some special power.It is also called utility function.
+1.React hook : its a normal javascript function with some special power.
+        !-It is also called utility function.
         - useState() : It is state variable which maintains the state of the component
                 -eg: when we call useState() it will give us state variable and then we will store it as const variable.
                 !const [item,setItem] = useState();

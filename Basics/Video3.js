@@ -19,7 +19,7 @@
     - it's just syntax that looks like html but it's not actually html
     - jsx is different than html
     - jsx is different and React is different
-    - JSX is a syntax extension for JavaScript that allows us to write HTML-like code within JavaScript. However, JSX is not directly understood by web browsers. Instead, JSX code is transformed into standard JavaScript code by tools like Babel during the build process. This transformed JavaScript code is what actually gets executed by the browser. Therefore, JSX is just a developer-friendly syntax that simplifies writing React components, but it's ultimately converted into JavaScript code that the browser can understand.
+    !- JSX is a syntax extension for JavaScript that allows us to write HTML-like code within JavaScript. However, JSX is not directly understood by web browsers. Instead, JSX code is transformed into standard JavaScript code by tools like Babel during the build process. This transformed JavaScript code is what actually gets executed by the browser. Therefore, JSX is just a developer-friendly syntax that simplifies writing React components, but it's ultimately converted into JavaScript code that the browser can understand.
     
 5. Babel - Transpiler / Js compiler
 

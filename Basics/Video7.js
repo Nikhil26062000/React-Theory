@@ -13,8 +13,8 @@
 ! just for the understanding : if want to fetch details of individual restaurants cards on clicking i.e creating dynamic card on clicking on restaurant then see video : -12:00
 
 3. <link> in React : behind the scene Link is also using <a> tag of html but react see that oh its a Link  so we dont need to refresh the page .
-        - see html dont understand <Link> so <Link> behind the scene using <a> tag to redirect but there will be some logic that finds that ohh its Link so we only have to rdirect but not to refresh the page.
-        !-Link is a wrapper over a tag
+        -  html dont understand <Link> so <Link> behind the scene using <a> tag to redirect but there will be some logic that finds that ohh its Link so we only have to rdirect but not to refresh the page.
+        !-Link is a wrapper over <a/> tag
 
 
 
