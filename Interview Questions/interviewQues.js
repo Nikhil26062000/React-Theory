@@ -4,7 +4,7 @@
     //1. jsx
     //2. components
     //3. virtual dom : React keeps a lightweight representation of the real DOM in the memory, and that is known as the virtual DOM. When the state of an object changes, virtual DOM changes only that object in the real DOM, rather than updating all the objects.
-    //4. one-way data binding : React keeps a lightweight representation of the real DOM in the memory, and that is known as the virtual DOM. When the state of an object changes, virtual DOM changes only that object in the real DOM, rather than updating all the objects.
+    //4. one-way data binding : React’s one-way data binding keeps everything modular and fast. A unidirectional data flow means that when designing a React app, you often nest child components within parent components.
     //5. High Performance :  React updates only those components that have changed, rather than updating all the components at once. This results in much faster web applications.
 
 //? ----------------------- What is the virtual DOM ----------------------
