@@ -3,8 +3,7 @@
 /*
 
 1. Higher order component:
-        - A higher order component is a function which takes a function as its argument and returns a function
-        -It is normal js function.
+       A higher-order component (HOC) is a function that takes a component as its argument and returns a new component. 
 
 2. Lifting up the state:
         - controlled vs uncontrolled component

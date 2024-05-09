@@ -15,7 +15,7 @@
     -so what happened in react is all the code will be bundled together in a single js file and if the code is too much then our application will take very large amount of time to load . To overcome this problem we use this feature .
 
     -we hava to use lazy() and suspense to achieve this.
-    - when we use lazy loading this will make seoerate bundle file for that component which will be inside lazy loading.Remember that component will not be inside the lazy() but its path will be inside lazy() and that component will be wrapped inside <suspense></suspense> .
+    - when we use lazy loading this will make seperate bundle file for that component which will be inside lazy loading.Remember that component will not be inside the lazy() but its path will be inside lazy() and that component will be wrapped inside <suspense></suspense> .
     !- if we not put that component inside suspense then it will through error becz when we use lazy loading, utill we dont click on that section that bundle file will not come in network tab and when we click then it will take some time to load that section but as we are seperating the bundle file react find that is that code available in base bundle file and it will not be there so react throw error
 
 
