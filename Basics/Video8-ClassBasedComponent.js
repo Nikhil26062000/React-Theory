@@ -65,6 +65,22 @@
 3. Cons of SPA(Single page Application):
         !see video at 2:22:00
 
+        !By chatGpt :
+            Pros:
+                1.Faster Load Times
+                2.Improved User Experience
+                    -Smooth Transitions
+                    -Real time changes
+
+            Cons:
+                1.SEO Challenges
+                2.JavaScript Dependency:
+                    -Client-Side Rendering: SPAs rely heavily on JavaScript, so if a user has JavaScript disabled, the application won’t function properly
+                    -Performance Issues: Inefficient JavaScript code can lead to performance issues, especially on lower-end devices.
+
+
+
+
 !4. important thing at video at -14:00  when it comes to functional component. this is also about unmounting in functional component.
        
 
